@@ -17,7 +17,7 @@ Try it: [https://alrgy-vrya.vercel.app/](https://alrgy-vrya.vercel.app/)
 - **shadcn/ui**
 - **Auth.js** (OAuth) for GitHub-powered authentication  
 - **Vercel**
-- 
+  
 ## Screenshtos
 
 <img width="1494" alt="Screenshot 2025-06-11 at 4 10 54 PM" src="https://github.com/user-attachments/assets/01c3844a-963b-40f3-87f9-04fa51441711" />
